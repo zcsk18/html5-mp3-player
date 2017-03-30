@@ -1,2 +1,2 @@
-# webmp3player
-webmp3player
+# html5-mp3-player
+html5-mp3-player
